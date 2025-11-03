@@ -28,7 +28,7 @@ Investigated expression patterns of appetite-regulating peptides and receptors i
 ### Neural Network Modeling of Ligand-Induced Conformational Changes  
 **Dr. M. S. Madhusudhan**, IISER Pune | *August 2024–May 2025*  
 Developed a computational pipeline to predict ligand-induced conformational changes between apo and holo protein pairs.  
-Applied structural bioinformatics and machine learning methods to identify predictive geometric features.  
+Applied structural bioinformatics and machine learning methods to identify predictive geometric features. 
 *Tools:* Python, PyMOL, UCSF ChimeraX, BLAST, GraphPad Prism.  
 🧾 Presented findings in **two poster sessions** at IISER Pune.
 
@@ -76,8 +76,7 @@ Integrating signal processing with neuroethological approaches to study sensorim
 ## 🏆 Achievements
 - **KVPY & NTSE Scholar** (AIR 904 – SA, AIR 948 – SX)  
 - **JEE Mains 2022:** 99.44 percentile  
-- **RMO & NMTC Qualifier**  
-- **ETH Zurich Research Stay (2024)** under Prof. Jukka Jokela  
+- **RMO & NMTC Qualifier**    
 - Multiple national-level quiz and science model competition wins 
 
 ---
