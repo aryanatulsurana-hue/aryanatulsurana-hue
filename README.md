@@ -3,7 +3,7 @@
 # 🧬 Aryan Atul Surana
 
 **BS–MS Student in Biology, IISER Pune**  
-📧 [aryan.atulsurana@students.iiserpune.ac.in](mailto:aryan.atulsurana@students.iiserpune.ac.in) | 🌐 [LinkedIn]([https://www.linkedin.com/in/aryan-surana-9a01a4280/]) | [Project Reports](https://drive.google.com/drive/folders/1ZFH7KBewz35_58lcSWwePyfcezyc7pOI)
+📧 [aryan.atulsurana@students.iiserpune.ac.in](mailto:aryan.atulsurana@students.iiserpune.ac.in) | 🌐 [LinkedIn](https://www.linkedin.com/in/aryan-surana-9a01a4280/) | [Project Reports](https://drive.google.com/drive/folders/1ZFH7KBewz35_58lcSWwePyfcezyc7pOI)
 
 ---
 
