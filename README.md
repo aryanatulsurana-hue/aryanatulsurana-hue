@@ -34,8 +34,10 @@ Applied structural bioinformatics and machine learning methods to identify predi
 
 ---
 
-### Evolutionary and Phenotypic Variation in Damselflies  
-**Dr. Erik Svensson**, Lund University | *May–August 2025*  
+### Evolutionary and Phenotypic Variation in Damselflies 
+
+**Dr. Erik Svensson**, 
+Lund University | *May–August 2025*  
 Conducted field and laboratory analyses on *Ischnura elegans* to study evolutionary and morphological variation across populations.
 *Tools:* R, Python
 ---
