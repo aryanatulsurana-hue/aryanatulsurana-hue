@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-# 🧬 Aryan Atul Surana
+#  Aryan Atul Surana
 
 **BS–MS Student in Biology, IISER Pune**  
 📧 [aryan.atulsurana@students.iiserpune.ac.in](mailto:aryan.atulsurana@students.iiserpune.ac.in) | 🌐 [LinkedIn](https://www.linkedin.com/in/aryan-surana-9a01a4280/) | [Project Reports](https://drive.google.com/drive/folders/1ZFH7KBewz35_58lcSWwePyfcezyc7pOI)
 
 ---
 
-## 🎓 Education
+##  Education
 **Indian Institute of Science Education and Research (IISER) Pune**  
 *BS–MS Dual Degree in Biology (2022–2027)*  
 - Major GPA: **9.4 / 10**  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔬 Research Experience
+##  Research Experience
 
 ### Neural & Molecular Mechanisms of Appetite Regulation  
 **Dr. Aurnab Ghose**, IISER Pune | *June–August 2024*  
@@ -30,7 +30,7 @@ Investigated expression patterns of appetite-regulating peptides and receptors i
 Developed a computational pipeline to predict ligand-induced conformational changes between apo and holo protein pairs.  
 Applied structural bioinformatics and machine learning methods to identify predictive geometric features. 
 *Tools:* Python, PyMOL, UCSF ChimeraX, BLAST, GraphPad Prism.  
-🧾 Presented findings in **two poster sessions** at IISER Pune.
+ Presented findings in **two poster sessions** at IISER Pune.
 
 ---
 
@@ -55,7 +55,7 @@ Integrating signal processing with neuroethological approaches to study sensorim
 *Tools:* Python, Bird-upkeep, Audio analysis.
 ---
 
-## 🧠 Research Interests
+##  Research Interests
 - Structural Bioinformatics & Protein Dynamics  
 - Computational Neuroscience  
 - Behavioral and Evolutionary Ecology  
@@ -64,7 +64,7 @@ Integrating signal processing with neuroethological approaches to study sensorim
 
 ---
 
-## 🧰 Technical Skills
+##  Technical Skills
 **Programming & Analysis:** Python, R  
 **Bioinformatics Tools:** MEGA, QIIME2, BLAST, FASTA, SnapGene  
 **Structural Tools:** PyMOL, UCSF ChimeraX  
@@ -73,7 +73,7 @@ Integrating signal processing with neuroethological approaches to study sensorim
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 - **KVPY & NTSE Scholar** (AIR 904 – SA, AIR 948 – SX)  
 - **JEE Mains 2022:** 99.44 percentile  
 - **RMO & NMTC Qualifier**    
@@ -81,7 +81,7 @@ Integrating signal processing with neuroethological approaches to study sensorim
 
 ---
 
-## 📊 GitHub Overview
+##  GitHub Overview
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanatulsurana-hue&show_icons=true&theme=graywhite)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanatulsurana-hue&layout=compact&theme=graywhite)
 
