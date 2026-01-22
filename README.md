@@ -1,17 +1,17 @@
-## Hi there 👋
+## Hi there 
 
 #  Aryan Atul Surana
 
 **BS–MS Student in Biology, IISER Pune**  
-📧 [aryan.atulsurana@students.iiserpune.ac.in](mailto:aryan.atulsurana@students.iiserpune.ac.in) | 🌐 [LinkedIn](https://www.linkedin.com/in/aryan-surana-9a01a4280/) | [Project Reports](https://drive.google.com/drive/folders/1ZFH7KBewz35_58lcSWwePyfcezyc7pOI)
+ [aryan.atulsurana@students.iiserpune.ac.in](mailto:aryan.atulsurana@students.iiserpune.ac.in) |  [LinkedIn](https://www.linkedin.com/in/aryan-surana-9a01a4280/) | [Project Reports](https://drive.google.com/drive/folders/1ZFH7KBewz35_58lcSWwePyfcezyc7pOI)
 
 ---
 
 ##  Education
 **Indian Institute of Science Education and Research (IISER) Pune**  
 *BS–MS Dual Degree in Biology (2022–2027)*  
-- Major GPA: **9.4 / 10**  
-- Current CGPA: **8.4 / 10**  
+- Major GPA: **9.3 / 10**  
+- Current CGPA: **8.5 / 10**  
 - Coursework includes: Structural Biology, Neurobiology-I, Neurobiology-II, Animal Behaviour, Bioinformatics, Ecology & Evolution, Mathematical Biology
 
 ---
